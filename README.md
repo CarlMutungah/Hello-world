@@ -1,2 +1,9 @@
-# Hello-world
-*This is my first repo. Welcome!*
+Hello there!
+
+┌─[CarlMutungah]─[~]
+└──╼ whoami
+Data Analyst
+Cloud Practioner
+Economist
+┌─[CarlMutungah]─[~]
+└──╼ $
